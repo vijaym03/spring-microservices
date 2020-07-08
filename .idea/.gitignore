@@ -1,0 +1,28 @@
+# Default ignored files
+/workspace.xml
+### IntelliJ IDEA ###
+
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+.idea
+*.iws
+*.iml
+*.ipr
+*.mvn
+/libraries
+*.cmd
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+
+### VS Code ###
+.vscode/
+/mvnw
+/mvnw.cmd
